@@ -1,1 +1,13 @@
 NESO2025.csv filter=lfs diff=lfs merge=lfs -text
+GitHub/NESO2019.csv filter=lfs diff=lfs merge=lfs -text
+GitHub/NESO2020.csv filter=lfs diff=lfs merge=lfs -text
+GitHub/NESO2021.csv filter=lfs diff=lfs merge=lfs -text
+GitHub/NESO2022.csv filter=lfs diff=lfs merge=lfs -text
+GitHub/NESO2023.csv filter=lfs diff=lfs merge=lfs -text
+GitHub/NESO2024.csv filter=lfs diff=lfs merge=lfs -text
+NESO2019.csv filter=lfs diff=lfs merge=lfs -text
+NESO2020.csv filter=lfs diff=lfs merge=lfs -text
+NESO2021.csv filter=lfs diff=lfs merge=lfs -text
+NESO2022.csv filter=lfs diff=lfs merge=lfs -text
+NESO2023.csv filter=lfs diff=lfs merge=lfs -text
+NESO2024.csv filter=lfs diff=lfs merge=lfs -text
